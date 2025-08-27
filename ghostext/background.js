@@ -67,7 +67,7 @@ async function startRotation() {
   // Set interval for rotation (15 seconds)
   rotationInterval = setInterval(() => {
     rotateSite();
-  }, 15000);
+  }, 90000);
 }
 
 // Stop rotation
