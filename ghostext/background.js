@@ -30,7 +30,7 @@ const DEFAULT_SITES = [
   'http://twitter.com'
   'http://cnbcindonesia.com'
   'https://www.google.com'
-  'channelnewsasia.com'
+  'http://channelnewsasia.com'
 ];
 
 // Initialize on installation
