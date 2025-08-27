@@ -166,19 +166,19 @@ server {
     index index.html;
 }
 
-# Server block for cnn.com
+# Server block for cnnindonesia.com
 server {
     listen 80;
-    server_name cnn.com www.cnn.com;
-    root /var/www/mirrors/cnn.com;
+    server_name cnnindonesia.com www.cnnindonesia.com;
+    root /var/www/mirrors/cnnindonesia.com;
     index index.html;
 }
 
-# Server block for reddit.com
+# Server block for channelnewsasia.com
 server {
     listen 80;
-    server_name reddit.com www.reddit.com;
-    root /var/www/mirrors/reddit.com;
+    server_name channelnewsasia.com www.channelnewsasia.com;
+    root /var/www/mirrors/channelnewsasia.com;
     index index.html;
 }
 
