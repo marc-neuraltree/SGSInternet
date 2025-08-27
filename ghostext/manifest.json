@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Site Rotator",
+  "version": "1.0.0",
+  "description": "Rotates through local test sites every 15 seconds",
+  "permissions": [
+    "tabs",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
