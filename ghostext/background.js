@@ -6,30 +6,30 @@ let rotationInterval = null;
 
 // Default test sites - modify these for your local testing
 const DEFAULT_SITES = [
-  'http://amazon.com'
-  'http://linkedin.com'
-  'http://detik.com'
-  'http://microsoft.com'
-  'http://tokopedia.com'
-  'http://kompas.com'
-  'http://kemhan.go.id'
-  'http://kompas.com'
-  'http://gojek.com'
-  'http://indonesia.go.id'
-  'http://tni.mil.id'
-  'http://polri.go.id'
-  'http://kemenkeu.go.id'
-  'http://youtube.com'
-  'http://facebook.com'
-  'http://wikipedia.org'
-  'http://instagram.com'
-  'http://shopee.co.id'
-  'http://traveloka.com'
-  'http://cnnindonesia.com'
-  'http://tribunnews.com'
-  'http://twitter.com'
-  'http://cnbcindonesia.com'
-  'https://www.google.com'
+  'http://amazon.com',
+  'http://linkedin.com',
+  'http://detik.com',
+  'http://microsoft.com',
+  'http://tokopedia.com',
+  'http://kompas.com',
+  'http://kemhan.go.id',
+  'http://kompas.com',
+  'http://gojek.com',
+  'http://indonesia.go.id',
+  'http://tni.mil.id',
+  'http://polri.go.id',
+  'http://kemenkeu.go.id',
+  'http://youtube.com',
+  'http://facebook.com',
+  'http://wikipedia.org',
+  'http://instagram.com',
+  'http://shopee.co.id',
+  'http://traveloka.com',
+  'http://cnnindonesia.com',
+  'http://tribunnews.com',
+  'http://twitter.com',
+  'http://cnbcindonesia.com',
+  'https://www.google.com',
   'http://channelnewsasia.com'
 ];
 
