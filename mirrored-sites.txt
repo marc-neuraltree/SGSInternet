@@ -1,0 +1,199 @@
+# Server block for google.com
+server {
+    listen 80;
+    server_name google.com www.google.com;
+    root /var/www/mirrors/google.com;
+    index index.html;
+}
+
+# Server block for amazon.com
+server {
+    listen 80;
+    server_name amazon.com www.amazon.com;
+    root /var/www/mirrors/amazon.com;
+    index index.html;
+}
+
+# Server block for linkedin.com
+server {
+    listen 80;
+    server_name linkedin.com www.linkedin.com;
+    root /var/www/mirrors/linkedin.com;
+    index index.html;
+}
+
+# Server block for microsoft.com
+server {
+    listen 80;
+    server_name microsoft.com www.microsoft.com;
+    root /var/www/mirrors/microsoft.com;
+    index index.html;
+}
+
+# Server block for detik.com
+server {
+    listen 80;
+    server_name detik.com www.detik.com;
+    root /var/www/mirrors/detik.com;
+    index index.html;
+}
+
+# Server block for tokopedia.com
+server {
+    listen 80;
+    server_name tokopedia.com www.tokopedia.com;
+    root /var/www/mirrors/tokopedia.com;
+    index index.html;
+}
+
+# Server block for gojek.com
+server {
+    listen 80;
+    server_name gojek.com www.gojek.com;
+    root /var/www/mirrors/gojek.com;
+    index index.html;
+}
+
+# Server block for kompas.com
+server {
+    listen 80;
+    server_name kompas.com www.kompas.com;
+    root /var/www/mirrors/kompas.com;
+    index index.html;
+}
+
+# Server block for indonesia.go.id
+server {
+    listen 80;
+    server_name indonesia.go.id www.indonesia.go.id;
+    root /var/www/mirrors/indonesia.go.id;
+    index index.html;
+}
+
+# Server block for kemhan.go.id
+server {
+    listen 80;
+    server_name kemhan.go.id www.kemhan.go.id;
+    root /var/www/mirrors/kemhan.go.id;
+    index index.html;
+}
+
+# Server block for tni.mil.id
+server {
+    listen 80;
+    server_name tni.mil.id www.tni.mil.id;
+    root /var/www/mirrors/tni.mil.id;
+    index index.html;
+}
+
+# Server block for polri.go.id
+server {
+    listen 80;
+    server_name polri.go.id www.polri.go.id;
+    root /var/www/mirrors/polri.go.id;
+    index index.html;
+}
+
+# Server block for kemenkeu.go.id
+server {
+    listen 80;
+    server_name kemenkeu.go.id www.kemenkeu.go.id;
+    root /var/www/mirrors/kemenkeu.go.id;
+    index index.html;
+}
+
+# Server block for youtube.com
+server {
+    listen 80;
+    server_name youtube.com www.youtube.com;
+    root /var/www/mirrors/youtube.com;
+    index index.html;
+}
+
+# Server block for wikipedia.org
+server {
+    listen 80;
+    server_name wikipedia.org www.wikipedia.org;
+    root /var/www/mirrors/wikipedia.org;
+    index index.html;
+}
+
+# Server block for facebook.com
+server {
+    listen 80;
+    server_name facebook.com www.facebook.com;
+    root /var/www/mirrors/facebook.com;
+    index index.html;
+}
+
+# Server block for netflix.com
+server {
+    listen 80;
+    server_name netflix.com www.netflix.com;
+    root /var/www/mirrors/netflix.com;
+    index index.html;
+}
+
+# Server block for instagram.com
+server {
+    listen 80;
+    server_name instagram.com www.instagram.com;
+    root /var/www/mirrors/instagram.com;
+    index index.html;
+}
+
+# Server block for shopee.co.id
+server {
+    listen 80;
+    server_name shopee.co.id www.shopee.co.id;
+    root /var/www/mirrors/shopee.co.id;
+    index index.html;
+}
+
+# Server block for traveloka.com
+server {
+    listen 80;
+    server_name traveloka.com www.traveloka.com;
+    root /var/www/mirrors/traveloka.com;
+    index index.html;
+}
+
+# Server block for twitter.com
+server {
+    listen 80;
+    server_name twitter.com www.twitter.com;
+    root /var/www/mirrors/twitter.com;
+    index index.html;
+}
+
+# Server block for cnn.com
+server {
+    listen 80;
+    server_name cnn.com www.cnn.com;
+    root /var/www/mirrors/cnn.com;
+    index index.html;
+}
+
+# Server block for reddit.com
+server {
+    listen 80;
+    server_name reddit.com www.reddit.com;
+    root /var/www/mirrors/reddit.com;
+    index index.html;
+}
+
+# Server block for tribunnews.com
+server {
+    listen 80;
+    server_name tribunnews.com www.tribunnews.com;
+    root /var/www/mirrors/tribunnews.com;
+    index index.html;
+}
+
+# Server block for cnbcindonesia.com
+server {
+    listen 80;
+    server_name cnbcindonesia.com www.cnbcindonesia.com;
+    root /var/www/mirrors/cnbcindonesia.com;
+    index index.html;
+}
