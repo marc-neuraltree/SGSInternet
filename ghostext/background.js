@@ -6,7 +6,6 @@ let rotationInterval = null;
 
 // Default test sites - modify these for your local testing
 const DEFAULT_SITES = [
-  'http://amazon.com',
   'http://linkedin.com',
   'http://detik.com',
   'http://microsoft.com',
