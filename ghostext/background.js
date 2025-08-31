@@ -29,7 +29,10 @@ const DEFAULT_SITES = [
   'http://twitter.com',
   'http://cnbcindonesia.com',
   'https://www.google.com',
-  'http://channelnewsasia.com'
+  'http://channelnewsasia.com',
+  'https://webmail.belengx.local',
+  'http://web.belengx.local',
+  'http://bnnc.belengx.local'
 ];
 
 // Initialize on installation
@@ -66,7 +69,7 @@ async function startRotation() {
   // Set interval for rotation (15 seconds)
   rotationInterval = setInterval(() => {
     rotateSite();
-  }, 90000);
+  }, 29000);
 }
 
 // Stop rotation
